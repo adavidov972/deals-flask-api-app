@@ -152,10 +152,10 @@ def make_parties_text_lists(data):
     parties_list = ""
     for i in range(len(data)):
         party = data[i]
-        party_full_name = f"{party["LAST_NAME"]} {party["FIRST_NAME"]} {party["ID_KIND"]} {party["ID"]}"
-        parties_list = f"{parties_list}{party_full_name} "
+        party_full_name = f'{party["LAST_NAME"]} {party["FIRST_NAME"]} {party["ID_KIND"]} {party["ID"]}'
+        parties_list = f'{parties_list}{party_full_name} '
         add = "ו-" if i != len(data) - 1 else ""
-        parties_list = f"{parties_list}{add}"
+        parties_list = f'{parties_list}{add}'
     return parties_list
 
 

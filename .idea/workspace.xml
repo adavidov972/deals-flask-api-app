@@ -4,15 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8b18d60-9274-4ae2-b8b9-e8e1fb2c533f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/docs_server.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/שטר מכר.docx" afterDir="false" />
+    <list default="true" id="c8b18d60-9274-4ae2-b8b9-e8e1fb2c533f" name="Changes" comment="The app work OK. all documents working, and 2 ways of getting thr docs, by email or by download zip file works ok.&#10;version 1.0.0">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +16,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2rQsFm5vTvunOmI2uAvdxj5CvUl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,10 +27,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/User/PycharmProjects/docs_server/templates"
+    "last_opened_file_path": "C:/Users/User/SynologyDrive/קבצים זמניים/Python Projects"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -44,6 +39,7 @@
       <recent name="C:\Users\User\PycharmProjects\docs_server\templates" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\SynologyDrive\קבצים זמניים\Python Projects" />
       <recent name="C:\Users\User\PycharmProjects\docs_server" />
     </key>
   </component>
@@ -87,6 +83,19 @@
       <option name="presentableId" value="Default" />
       <updated>1736502531933</updated>
     </task>
+    <task id="LOCAL‎-00001" summary="The app work OK. all documents working, and 2 ways of getting thr docs, by email or by download zip file works ok.&#10;version 1.0.0">
+      <option name="closed" value="true" />
+      <created>1736793521223</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL‎-00001" />
+      <option name="project" value="LOCAL‎" />
+      <updated>1736793521223</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="The app work OK. all documents working, and 2 ways of getting thr docs, by email or by download zip file works ok.&#10;version 1.0.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="The app work OK. all documents working, and 2 ways of getting thr docs, by email or by download zip file works ok.&#10;version 1.0.0" />
   </component>
 </project>
